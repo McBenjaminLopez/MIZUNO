@@ -1,0 +1,114 @@
+body {
+	margin: 0;
+	padding: 0;
+	line-height: 15px;
+}
+
+a {
+	position: fixed;
+	text-decoration: none;
+	font-size: 50px;
+	background: gray;
+	padding: 30px;
+	top: 0;
+	color: white;
+	border: 10px black solid;
+}
+
+.container2 {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-template-rows: repeat(6,1fr);
+	grid-gap: 10px;
+	padding: 0px;
+	margin: 50px 50px 50px 50px;
+}
+
+.text1 {
+	background: #cbcbcb;
+	padding: 200px;
+	text-align: center;
+	margin: 0;
+}
+
+.image1 {
+	background-image: url(../images/r2.jpg);
+	background-position: center;
+	background-size: 900px;
+	background-repeat: no-repeat;
+}
+
+.text2 {
+	background: #cbcbcb;
+	background: #cbcbcb;
+	padding: 200px;
+	text-align: center;
+	margin: 0;
+}
+
+.image2 {
+	background-image: url(../images/rider_1.jpg);
+	background-position: center;
+	background-size: 900px;
+	background-repeat: no-repeat;
+}
+
+.text3 {
+	background: #cbcbcb;
+	background: #cbcbcb;
+	padding: 200px;
+	text-align: center;
+	margin: 0;
+}
+
+.image3 {
+	background-image: url(../images/sneakers.jpeg);
+	background-position: center;
+	background-size: 900px;
+	background-repeat: no-repeat;
+}
+
+.text4 {
+	background: #cbcbcb;
+	background: #cbcbcb;
+	padding: 200px;
+	text-align: center;
+	margin: 0;
+}
+
+.image4 {
+	background-image: url(../images/mizuno-Light-grey-Low-tops-Sneakers.jpeg);
+	background-position: center;
+	background-size: 900px;
+	background-repeat: no-repeat;
+}
+
+.text5 {
+	background: #cbcbcb;
+	background: #cbcbcb;
+	padding: 200px;
+	text-align: center;
+	margin: 0;
+}
+
+.image5 {
+	background-image: url(../images/mizuno-etamin-green.jpg);
+	background-position: center;
+	background-size: 900px;
+	background-repeat: no-repeat;
+}
+
+.text6 {
+	background: #cbcbcb;
+	background: #cbcbcb;
+	padding: 200px;
+	text-align: center;
+	margin: 0;
+}
+
+.image6 {
+	background-image: url(../images/ded7c474a3d85204899bea570c47bb3e2942734a.jpg);
+	background-position: center;
+	background-size: 900px;
+	background-repeat: no-repeat;
+}

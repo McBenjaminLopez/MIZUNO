@@ -1,0 +1,15 @@
+.text {
+	margin-top: 20%;
+	text-align: center;
+}
+
+a {
+	position: fixed;
+	text-decoration: none;
+	font-size: 50px;
+	background: gray;
+	padding: 30px;
+	top: 0;
+	color: white;
+	border: 10px black solid;
+}
